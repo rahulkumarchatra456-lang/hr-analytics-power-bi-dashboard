@@ -32,5 +32,6 @@ Suggested GitHub repository metadata
 - Repository name: hr-analytics-power-bi-dashboard
 - Short description: Interactive HR analytics dashboard built in Microsoft Power BI to explore employee attrition and workforce metrics.
 - Topics: power-bi, hr-analytics, data-analytics, business-intelligence, dashboard, workforce-analytics
+
 Author
 RAHUL KUMAR
